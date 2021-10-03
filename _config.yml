@@ -12,6 +12,14 @@ description:      'Full stack Developer with a DevOps flavour, Historyphile, wan
 url:              https://dasasathyan.github.io/personal-blog/
 base_url:         "/"
 
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+
 # About/contact
 author:
   name:              Dasa Sathyan
