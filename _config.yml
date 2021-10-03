@@ -10,7 +10,7 @@ title:            Dasa Sathyan @ javadas
 tagline:          Senior Software Consultant, Platformatory
 description:      'Full stack Developer with a DevOps flavour, Historyphile, wanderlust and a lot more. '
 url:              https://dasasathyan.github.io/personal-blog/
-base_url:         "/"
+base_url:         "/personal-blog"
 
 menu:
   - title: Home
