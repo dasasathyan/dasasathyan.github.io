@@ -10,6 +10,7 @@ title:            Dasa Sathyan @ javadas
 tagline:          'Accountant turned Developer'
 description:      'Here, I share with what I play in technology, what I explore in history, how I have fun'
 url:              https://dasasathyan.github.io/personal-blog/
+base_url:         /
 
 # About/contact
 author:
