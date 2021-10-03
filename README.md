@@ -1,21 +1,29 @@
-# Hyde
+# About me
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+I am an Accoutant turned Software Engineer. I am a full stack developer with a DevOps flavour. I have been writing code in Ruby, Python, Java, PHP for more than 6 years. I containerize, develop, build, test and deploy. 
+
+I am a history loving person. I love to explore lost Indian history.
+
+I also travel a lot.
+
+In this blog, I share with what I play in technology, what I explore in history, how I have fun
 
 ![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
 
 
 ## Contents
 
-- [Usage](#usage)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Sticky sidebar content](#sticky-sidebar-content)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
+- [About me](#about-me)
+  - [Contents](#contents)
+  - [Usage](#usage)
+  - [Options](#options)
+    - [Sidebar menu](#sidebar-menu)
+    - [Sticky sidebar content](#sticky-sidebar-content)
+    - [Themes](#themes)
+    - [Reverse layout](#reverse-layout)
+  - [Development](#development)
+  - [Author](#author)
+  - [License](#license)
 
 
 ## Usage
