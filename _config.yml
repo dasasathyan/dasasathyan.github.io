@@ -16,9 +16,9 @@ menu:
   - title: Home
     url: /
   - title: About
-    url: /about
+    url: /personal-blog/about
   - title: Contact
-    url: /contact
+    url: /personal-blog/contact
 
 # About/contact
 author:
