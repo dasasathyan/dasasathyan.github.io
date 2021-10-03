@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "DevOps made my Life Easier"
 date: 2021-10-03
 ---
