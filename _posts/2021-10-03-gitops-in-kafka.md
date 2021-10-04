@@ -8,6 +8,8 @@ It is not easy to manage Infrastructure as going wrong in any of the steps worse
 
 A few of the IaC tools are Terraform, Ansible, Chef etc.
 
+<!--more-->
+
 Kafka is a framework to implement Stream Processing. The data is written by many processes called produces and the same are read by consumers. The data are partitioned into different partitions called topics. Kafka runs on a cluster of one or more servers called brokers and the partitions are distributed across the cluster.
 
 The infrastructure of Kafka can be provisioned with many tools. Here we will see julie-ops. 

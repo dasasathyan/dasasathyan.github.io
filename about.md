@@ -1,9 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
+date: 2021-10-03
 ---
 
-I am an Accoutant turned Software Engineer. I am a full stack developer with a DevOps flavour. I have been writing code in Ruby, Python, Java, PHP for more than 6 years. I containerize, develop, build, test and deploy. 
+<img src="{{ site.url }}/assets/thanjavur.jpg" alt="dp" class="inline" height=500/>
+
+I am an Accoutant turned Software Engineer. I am a full stack developer with a DevOps flavour. I have been coding in Ruby, Python, Java, PHP and a lot more for 6+ years. I love to containerize, develop, build, test and deploy. 
 
 I am a history loving person. I love to explore lost Indian history.
 
