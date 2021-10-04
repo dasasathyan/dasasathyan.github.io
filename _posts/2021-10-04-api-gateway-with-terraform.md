@@ -6,7 +6,7 @@ date: 2021-10-03
 
 API Gateway helps developers to create, manage and monitor APIs at any scale between a client and one or more backend services. Amazon Web Services has its own fully managed API Gateway service with which developers can manage their APIs. It also manages thousands of concurrent API calls, traffic management, CORS support, authorization and access control, throttling, monitoring, and API version management.
 
-Terraform is an Infrastructure as a Code(IaC) tool. Read more about it [here](2021-10-03-gitops-in-kafka.md)
+Terraform is an Infrastructure as a Code(IaC) tool. Read more about it [here](2021/10/03/gitops-in-kafka)
 
 <!--more-->
 
