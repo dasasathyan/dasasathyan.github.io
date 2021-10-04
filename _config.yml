@@ -31,3 +31,8 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - redcarpet
+  - jekyll-relative-links
+
+relative_links:
+  enabled:     true
+  collections: false
