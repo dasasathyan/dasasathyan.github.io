@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Create AWS API Gateway with Swagger in Terraform"
+title: "Import APIs in AWS with Terraform"
 date: 2021-10-03
 ---
 
