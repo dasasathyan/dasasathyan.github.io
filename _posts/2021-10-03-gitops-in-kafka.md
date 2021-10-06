@@ -59,9 +59,46 @@ List of Connectors:
 List of KSQL Artifacts:
 Kafka Topology updated
 ```
+
+## Integrating with GitOps
+
+GitOps is the process of having your source code repository as a single source of truth for Continous Integration and Continuous Delivery. The below code is a GitHub actions example to create topics in Kafka running on Confluent Cloud with GitHub actions.
+
+```
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner and the image on which the job will run.
+    runs-on: ubuntu-latest
+    container: purbon/kafka-topology-builder:latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Creates a dev.properties file with all the config required to establish a connection with Confluent Cloud
+      - name: Create a properties file
+        run: |
+          ./build-properties-file.sh > dev.properties
+          julie-ops-cli.sh --broker $DEV_BOOTSTRAP_SERVER --clientConfig dev.properties --topology descriptor-only-topics.yaml
+
+        # Environment variables being used in the dev.properties file.
+        env:
+          DEV_BOOTSTRAP_SERVER: ${{ secrets.DEV_BOOTSTRAP_SERVER }}
+          DEV_SASL_USERNAME: ${{ secrets.DEV_SASL_USERNAME }}
+          DEV_SASL_PASSWORD: ${{ secrets.DEV_SASL_PASSWORD }}
+          DEV_SCHEMA_REGISTRY_URL: ${{ secrets.DEV_SCHEMA_REGISTRY_URL }}
+          DEV_SR_API_KEY: ${{ secrets.DEV_SR_API_KEY }}
+          DEV_SR_API_SECRET: ${{ secrets.DEV_SR_API_SECRET }}
+```
+
+The source code of the GitHub actions file can be viewed [here][github_actions_file]
+
 [julie-ops]: https://julieops.readthedocs.io/en/latest/#
 [Topics]: https://julieops.readthedocs.io/en/latest/futures/what-topic-management.html
 [Handling schemas]: https://julieops.readthedocs.io/en/latest/futures/what-schema-management.html
 [Access Control]: https://julieops.readthedocs.io/en/latest/futures/what-acl-management.html
 [ksql artifacts]: https://julieops.readthedocs.io/en/latest/futures/what-ksql-management.html
 [topologies]: https://julieops.readthedocs.io/en/latest/the-descriptor-files.html?highlight=topology
+[github_actions_file]: https://github.com/Platformatory/kafka-cd-julie/blob/dev/.github/workflows/dev.yml
