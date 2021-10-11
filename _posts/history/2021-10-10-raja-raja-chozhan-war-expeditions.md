@@ -7,9 +7,11 @@ permalink: "/history/raja-raja-chozhan-war-expeditions"
 
 We briefly discussed Medieval Chozhas in the previous blog. We will see about one of the greatest kings the universe has ever produced. The great Arumozhi Varman alias Raja Raja Chozhan.
 
-His first military expedition started in Kaandhalur Saalai, today's Valiyasa near Thiruvananthapuram the capital of Kerala. All the Chera soldiers practice for the war at Kaandhalur Saalai. He also destroyed all the naval ships of Cheras.
+His first military expedition started in Kaandhalur Saalai, today's Valiyasa near Thiruvananthapuram, the capital of Kerala. All the Chera soldiers practice for the war at Kaandhalur Saalai. He also destroyed all the naval ships of Cheras.
 
 <!--more-->
+
+<img src="{{ site.url }}/assets/rrc_and_koil.jpg" alt="rrc_and_koil" class="inline" height=500/>
 
 After conquering the parts of Cheras & Pandyas he went across the sea to conquer today's Lanka. It was then ruled by Mahindan V. The preceding Chozha kings always conquered the north of Lanka. It was Raja Raja Chozhan who conquered the entire Lanka. To celebrate the victory of conquering Lanka, he went on to build a temple in Pollanaru which is today's Polonnaruwa. These temples are still being maintained even after many years.
 
