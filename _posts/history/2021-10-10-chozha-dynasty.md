@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chozha Dynasty"
-date: 2021-10-06
+date: 2021-10-10
 permalink: "/history/chozha-dynasty"
 ---
 
