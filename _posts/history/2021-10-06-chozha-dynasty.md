@@ -17,7 +17,7 @@ Medieval Chozhas rose to prominence from the 9th century. It was Vijayalaya Choz
 
 Sundara Chozhan had 2 sons namely Aditya Karikalan and Arumozhi Varman who was later named Raja Raja Chozhan who is still the greatest king of all time. Aditya Karikalan was assassinated at a very early stage of his life and the reason for his assassination remains a mystery even after 1000+ years. 
 
-Though Raja Raja Chozhan won the hearts of people to become the next heir to the throne after Aditya Karikalan's demise, he refused to take up the throne to fulfil the wish of his uncle Uttama Chozhan(another son of Kandaraathittha Chozhan) who wanted to become a king.
+Though Raja Raja Chozhan won the hearts of people to become the next heir to the throne after Aditya Karikalan's demise, he refused to take up the throne to fulfil the wish of his uncle Uttama Chozhan who wanted to become a king.
 
 It is practically impossible to name anyone great king in the Chozha dynasty as everyone in Chozhas was the best in their way of ruling. But two noted kings who got their recognition across continents are Arumozhi Varman @ Raja Raja Chozhan and Madhurantagan  @ Rajendra Chozhan where the former is the father of the latter. 
 
