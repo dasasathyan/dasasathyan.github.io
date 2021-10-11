@@ -5,7 +5,7 @@ date: 2021-10-10
 permalink: "/history/raja-raja-chozhan-war-expeditions"
 ---
 
-We briefly discussed Medieval Chozhas in the previous blog. We will see about one of the greatest kings the universe has ever produced. The great Arumozhi Varman alias Raja Raja Chozhan.
+We briefly discussed Medieval Chozhas in the [previous blog](/history/chozha-dynasty). We will see about one of the greatest kings the universe has ever produced. The great Arumozhi Varman alias Raja Raja Chozhan.
 
 His first military expedition started in Kaandhalur Saalai, today's Valiyasa near Thiruvananthapuram, the capital of Kerala. All the Chera soldiers practice for the war at Kaandhalur Saalai. He also destroyed all the naval ships of Cheras.
 

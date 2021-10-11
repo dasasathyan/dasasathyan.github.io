@@ -9,4 +9,6 @@ Though he was on continuous war expeditions, on the other hand, he made sure of 
 
 <!--more-->
 
+<img src="{{ site.url }}/assets/rrc.jpg" alt="rrc" class="inline" height=500/>
+
 Kings those days very well knew that only if Agriculture prospers the country prospers. All the kings brought in a lot of water harvesting plans, irrigation systems like man-made lakes & ponds. Uyyakondaan and Keerthimaan are a few distributary channels that flow from large rivers during Raja Raja Chozhan's rule. In a place where there is no large river, lakes were created. 
