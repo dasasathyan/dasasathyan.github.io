@@ -12,3 +12,33 @@ Though he was on continuous war expeditions, on the other hand, he made sure of 
 <img src="{{ site.url }}/assets/rrc.jpg" alt="rrc" class="inline" height=500/>
 
 Kings those days very well knew that only if Agriculture prospers the country prospers. All the kings brought in a lot of water harvesting plans, irrigation systems like man-made lakes & ponds. Uyyakondaan and Keerthimaan are a few distributary channels that flow from large rivers during Raja Raja Chozhan's rule. In a place where there is no large river, lakes were created. 
+
+For ease of governance, the entire Chozha kingdom was divided into 9 territorial divisions called Mandalam. They are 
+
+1. Chozha Mandalam
+1. Malai Mandalam
+1. Vengi Madalam (Eastern Chalukyas)
+1. RajaRaja Pandi Mandalam (Pandya Kingdom)
+1. Jayankonda Chozha Mandalam (Thondai Nadu. Current day Northern Tamil Nadu and Southern Andhra Pradesh)
+1. Mummudi Chozha Mandalam (Sri Lanka)
+1. Mudikonda Chozha Mandalam (Ganga Nadu. Current day Mysore and other regions)
+1. Nigarili Chozha Mandalam (Nulambadi. Current day Andhra Karnataka borders like Bellary, Ananthapur, Tumkur, Bangalore, Kolar and regions)
+1. Athiraasaraasa Chozha Mandalam (Kongu Nadu. Current day Western Tamil Nadu, South Eastern Karnataka and Eastern Kerala)
+
+The first 3 divisions (Chozha Mandalam, Malai Mandalam, Vengi Madalam) are some of the oldest divisions. But rest 6 were named after the names of Raja Raja Chozhan.
+
+As land tax is the primary source of revenue for the Chozha dynasty,  officials were employed for the timely collection and reporting of the land tax. They are called Puragu vari thinaikkalam (புரகுவரித்திணைக்களம்)
+
+For the peace and order of the kingdom, most of the cases were dealt and judgments were given in local panchayats. The kingdom had its officials to maintain peace and order.
+
+A few of the major officials under Raja Raja Chozhan were
+
+1. The Commander-in-Chief Krishnan Raman @ Mummudi Chozha Brahmmaraayan
+1. Paraman Mazhapaadiyaan @ Mummudi Chozhan
+1. Commander Kuravan Ulagalanthaan @ Raja Raja Maarayyan
+1. Vikramasingha Mooventha veylaan
+1. Madhurandhagan Kandaraathitthan
+1. Pallavarayyan
+1. Amudhan Theerthagan
+1. Madhurandhaga Mooventha Veylaan
+1. Thennavan Mooventha Veylaan
