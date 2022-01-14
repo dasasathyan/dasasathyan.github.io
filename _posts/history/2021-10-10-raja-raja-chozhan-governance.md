@@ -41,4 +41,4 @@ A few of the major officials under Raja Raja Chozhan were
 1. Madhurandhaga Mooventha Veylaan
 1. Thennavan Mooventha Veylaan
 
-Read more on how river and water was managed during his rule [here](/history/water-management)
+Read more on how river and water were managed during his rule [here](/history/river-and-water-management)

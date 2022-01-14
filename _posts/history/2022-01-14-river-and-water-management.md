@@ -19,4 +19,4 @@ He has also carved his names on those pillars so that people treat those pillars
 
 He was also named as Siva Paadha Sekaran (Feet of Lord Siva at my head). He says that he keeps the feet of people who preserve such lakes and Kumizhu Thoombu at his head. The head where the feet of Lord Siva are kept. Such was the importance given by him for people's welfare.
 
-One of the main reasons why he is still being praised by millions and millions of people is his magnanimous architecture built 1000 years back in a small city of Tamil Nadu called Thanjavur. The great [Raja Rajeshwaram @ Peru Udaiyaar Koil @ Periya Koil @ Brihadeeshwarar Temple](history/periya-koil). 
+One of the main reasons why he is still being praised by millions and millions of people is his magnanimous architecture built 1000 years back in a small city of Tamil Nadu called Thanjavur. The great [Raja Rajeshwaram @ Peru Udaiyaar Koil @ Periya Koil @ Brihadeeshwarar Temple](/history/periya-koil). 
