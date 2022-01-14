@@ -23,6 +23,6 @@ Though Raja Raja Chozhan won the hearts of people to become the next heir to the
 
 It is practically impossible to name anyone great king in the Chozha dynasty as everyone in Chozhas was the best in their way of ruling. But two noted kings who got their recognition across continents are Arumozhi Varman @ Raja Raja Chozhan and Madhurantagan  @ Rajendra Chozhan where the former is the father of the latter. 
 
-We will see their achievements in separate blog posts.
+Read his war expedition in the next [blog post](history/raja-raja-chozhan-war-expeditions).
 
 My sincere thanks to Mr. Aandavar Kani who researched the Chozha inscriptions from various temples. This blog post wouldn't have been possible without his help.
