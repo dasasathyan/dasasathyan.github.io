@@ -18,3 +18,5 @@ After conquering the parts of Cheras & Pandyas he went across the sea to conquer
 Cities of Mysore, Eastern Chalukyas also came under Raja Raja Chozhan during his rule. He after defeating West Chalukya king Sathyasriyan donated his wealth to build the famous Peru Udaiyaar temple @ Brihadeeshwara temple. The Malwa dynasty also started attacking Raja Raja Chozhan at the same time. Both the kings were unable to counter-attack Raja Raja Chozhan. He defeated 2 of the greatest Chalukya kings at the same time. The victory in the Chalukya war resulted in merging the parts of Mysore, Bellary with the Chozha kingdom.
 
 In the Thaayathi war the kings of the Vengi kingdom (today's Andhra) Sakthivarman, Vilamalaadhitthan were chased out of the kingdom. They both then surrendered to Raja Raja Chozhan. Raja Raja Chozhan fought for the rights of the 2 kings and made Sakthivarman the king of the Vengi. After Sakthivarman's death, to maintain the relationship between the 2 kingdoms, Raja Raja Chozhan's daughter Kundavai was married to  Vimalaadhitthan.
+
+Read more about Raja Raja Chozhan's governance [here](/history/raja-raja-chozhan-governance)

@@ -11,6 +11,8 @@ But if you ask me to name any such kings I'd name the kings of Chozha kingdom pr
 
 <!--more-->
 
+The copper plates of Aanaimangalam (A small village from the Nagapattinam district of South Tamil Nadu) in the year 1886 and Thiruvalangadu (near Chennai) in the year 1905 are one of the primary sources that tell us about the history of Chozha kingdom.
+
 Chozhas can be categorized into early Chozhas, medieval chozhas and later chozhas. Chozhas were headquartered around the river Kaveri region, conquered beyond the river Tungabadra in the west and the sacred Ganga to the east. We at present do not have enough inscriptions that say about the early Chozhas as they have said to have ruled at least 2000 years back. But we do have enough references about the existence of early Chozhas from Sangam literature.
 
 Medieval Chozhas rose to prominence from the 9th century. It was Vijayalaya Chozhan who laid the foundation of Medieval Chozhas by conquering back the Thanjavur from Mutharaiyar. Then came the Adityan Chozhan I, Parantaka Chozhan I, Kandaraathittha Chozhan, Arinjaya Chozhan. During the demise of Kandaraathittha Chozhan, his son was too young to take over the throne. Hence his brother Arinjaya Chozhan became the king. After Arinjaya Chozhan who ruled for a very little time was succeeded by his son Parantaka Chozhan II. Parantaka Chozhan II was the embodiment of beauty and hence he was named Sundara Chozhan who is widely referenced in the famous novel Ponniyin Selvan by Kalki.
