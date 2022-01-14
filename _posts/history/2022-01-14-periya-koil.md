@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Periya Koil @ Brihadeeshwara Temple"
+title: "Raja Rajeshwaram @ Peru Udaiyaar Koil @ Periya Koil @ Brihadeeshwarar Temple"
 date: 2022-01-14
 permalink: "/history/periya-koil"
 ---
@@ -9,7 +9,7 @@ Two major emperors from the Chozha kingdom include Raja Raja Chozhan and his son
 
 <!--more-->
 
-In today's world, even a kind might know that it was Raja Raja Chozhan who built the famous Periya Koil of Thanjavur aka Brihadeeshwara Temple. But around 145 years back i.e., before 1887, no one really knew about the king.  A German indologist and epigraphist named E. Hultzsch was appointed during the British rule to analyze the inscriptions.
+In today's world, even a kid might know that it was Raja Raja Chozhan who built the famous Periya Koil of Thanjavur aka Brihadeeshwara Temple. But around 145 years back i.e., before 1887, no one really knew about the king.  A German indologist and epigraphist named E. Hultzsch was appointed during the British rule to analyze the inscriptions.
 It was him who rediscovered that the Periya Koil was actually built by the emperor Raja Raja Chozhan. He then published all his findings about the Periya Koil in the 2nd volume of his book South Indian Inscriptions. The inscription says:
 
     பாண்டிய குலாசனி வளநாட்டுத் தஞ்சாவூர்க் கூற்றத்துத் தஞ்சாவூர் நாம்
