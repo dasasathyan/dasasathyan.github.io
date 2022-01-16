@@ -60,4 +60,4 @@ There are a lot of myths about this shrine that are completely false. They are
 
 3. There's a Chinese figure in the tower. He is a surveyor whose heavy machinery broke on of the pieces of the stone. Hence his image was replaced there.
 
-The above information has been collected from Dr Kudavayil Balasubramanian, Epigraphist and temple researcher who recently released a book named Raja Rajecharam about the temple .
+The above information has been collected from Dr Kudavayil Balasubramanian, Epigraphist and temple researcher who recently released a book named Raja Rajecharam about the temple.
