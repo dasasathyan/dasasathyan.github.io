@@ -1,3 +1,13 @@
+# Steps to run locally
+
+1. gem install jekyll-paginate jekyll-gist redcarpet jekyll-relative-links jekyll serve
+2. jekyll build
+3. jekyll serve
+
+Note: Git command 
+
+`git remote set-url origin git@github.com-dasasathyan-personal:dasasathyan/dasasathyan.github.io.git`
+
 # About me
 
 I am an Accoutant turned Software Engineer. I am a full stack developer with a DevOps flavour. I have been writing code in Ruby, Python, Java, PHP for more than 6 years. I containerize, develop, build, test and deploy. 
@@ -13,6 +23,7 @@ In this blog, I share with what I play in technology, what I explore in history,
 
 ## Contents
 
+- [Steps to run locally](#steps-to-run-locally)
 - [About me](#about-me)
   - [Contents](#contents)
   - [Usage](#usage)

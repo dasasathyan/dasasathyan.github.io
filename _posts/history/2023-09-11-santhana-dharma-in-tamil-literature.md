@@ -5,7 +5,7 @@ date: 2023-09-11
 permalink: "/history/sanathana-dharma-in-tamil-literature"
 ---
 
-Amidst the ongoing debate surrounding the preservation of Sanathana Dharma and the classification of Tamils as non-Sanathanis, it's important to emphasize that Sanathana Dharma is deeply rooted in the Vedas, Puranas, and Itihasas. To illustrate this connection, I've compiled references from Tamil literature:
+Amidst the ongoing debate surrounding the preservation of Sanathana Dharma and the classification of Tamils as non-Sanathanis, it's important to emphasize that Sanathana Dharma is deeply rooted in the Vedas, Puranas, and Itihasas. To illustrate this connection, I've compiled references to vedas, velvis from some Tamil literatures:
 
 <!--more-->
 
