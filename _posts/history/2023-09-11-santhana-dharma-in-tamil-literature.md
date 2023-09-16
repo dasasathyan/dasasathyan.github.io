@@ -5,7 +5,9 @@ date: 2023-09-11
 permalink: "/history/sanathana-dharma-in-tamil-literature"
 ---
 
-Amidst the ongoing debate surrounding the preservation of Sanathana Dharma and the classification of Tamils as non-Sanathanis, it's important to emphasize that Sanathana Dharma is deeply rooted in the Vedas, Puranas, and Itihasas. To illustrate this connection, I've compiled references to vedas, velvis from some Tamil literatures:
+Amidst the ongoing debate surrounding the preservation of Sanathana Dharma and the classification of Tamils as non-Sanathanis, it's important to emphasize that Sanathana Dharma is deeply rooted in the Vedas, Velvis(Yajnas) Puranas, and Itihasas. 
+
+To illustrate this connection, I've compiled references to Vedas, Velvis(Yajnas) from some Tamil literatures:
 
 <!--more-->
 
@@ -27,6 +29,8 @@ Amidst the ongoing debate surrounding the preservation of Sanathana Dharma and t
    EnavOthum
    mukkatpara maRku *churuthiyin* muR-pattathu-kaRpith-iruvarum muppath-mu varkka-thamararum  AdipENa	
    ```
+
+   "Churuthi (Shruthi)" is a reference to the Vedas. It's worth noting that when we apply the "Thirichol" rule from Tamil Ilakkanam, "Shruthi" transforms into "Churuthi."
 
 2. Thirumangai Azhwar, in his Periya Thirumozhi, states:
 
@@ -59,8 +63,9 @@ Amidst the ongoing debate surrounding the preservation of Sanathana Dharma and t
    ```
    parudhi uruvin palpadai purisai
    eruvai nugarcchi yooba nedunthoon
-   *veda velvi* thozhilmoodi thadhooum
+   *veda velvi* thozhilmudi thadhooum
    ```
+   It states that the Athirathram Yajna was performed by Karikala Chozhan.
 
 4. The 6th verse from Puranaanooru by Kaarigizhaar reads:
 
@@ -78,6 +83,8 @@ Amidst the ongoing debate surrounding the preservation of Sanathana Dharma and t
    naanmarai muniva rendhugai yethirey
    ```
 
+   Pandya King Muthikudumi Peruvazhuthi conducted a Yajna dedicated to Sivaperuman, following the righteous path of sages who had mastered all four Vedas.
+
 5. The 15th verse in Puranaanooru by Kabilar reads:
 
    Tamil (தமிழ்):
@@ -94,9 +101,26 @@ Amidst the ongoing debate surrounding the preservation of Sanathana Dharma and t
    yoopam natta viyangalam palakol
    ```
 
+   The aforementioned Pandya King, Muthikudumi Peruvazhuthi, kindled the sacred fire with ghee and conducted a Yajna.
+
+6. The 377th verse in Puranaanooru by Ulocchanaar states:
+
+   Tamil (தமிழ்):
+
+   ```அவி உணவினோர் புறங் காப்ப,
+   அற, நெஞ்சத்தோன் வாழ, நாள் என்று,```
+
+   English:
+   ```
+   avi unavinor purangaappa
+   ara nenjatthon vaazha naal endru
+   ```
+
+   King Perunarkilli conducted the Rajasuya Yajna according to the instructions from the Vedas.
+
     In addition to the aforementioned mentions of Yajnas and Vedas in Tamil literature Purananooru, there exist abundant references to king conducting Yajnas such as the Rajasuya Yajna and adhering to the four Vedas, among others.
 
-6. Thirukkural, considered one of the greatest works ever written on ethics and morality, is widely acknowledged for its universality and secular nature. It also refers to gods in many of its verses:
+7. Thirukkural, considered one of the greatest works ever written on ethics and morality, is widely acknowledged for its universality and secular nature. It also refers to gods in many of its verses:
 
     Indra (kural 25):
 
