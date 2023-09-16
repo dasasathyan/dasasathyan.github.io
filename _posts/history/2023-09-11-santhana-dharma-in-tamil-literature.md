@@ -122,14 +122,14 @@ To illustrate this connection, I've compiled references to Vedas, Velvis(Yajnas)
 
 7. Thirukkural, considered one of the greatest works ever written on ethics and morality, is widely acknowledged for its universality and secular nature. It also refers to gods in many of its verses:
 
-    1. Indra (kural 25):
+   1. Indra (kural 25):
 
       ```ஐந்தவித்தான் ஆற்றல் அகல்விசும்பு ளார்கோமான்
       இந்திரனே சாலுங் கரி```
 
       Indra himself has cause to say How great the power ascetics' sway
 
-    1. Lakshmi (kural 84, 179):
+   1. Lakshmi (kural 84, 179):
 
       ```அகனமர்ந்து செய்யாள் உறையும் முகனமர்ந்து
       நல்விருந்து ஓம்புவான் இல்.```
@@ -141,14 +141,14 @@ To illustrate this connection, I've compiled references to Vedas, Velvis(Yajnas)
 
       Fortune seeks the just and wise Who are free from coveting vice.
 
-    1. Lord Vishnu (1103):
+   1. Lord Vishnu (1103):
 
       ```தாம்வீழ்வார் மென்றோள் துயிலின் இனிதுகொல்
       தாமரைக் கண்ணான் உலகு.```
 
       Is lotus-eyed lord's heaven so sweet As sleep in lover's arms so soft?
 
-    1. Vamana Avatar (indirect reference in 610):
+   1. Vamana Avatar (indirect reference in 610):
 
       ```மடியிலா மன்னவன் எய்தும் அடியளந்தான்
       தாஅய தெல்லாம் ஒருங்கு.```
